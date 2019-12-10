@@ -7,3 +7,5 @@ hello
 python
 Java
 add merge
+merge with no-ff
+merge without no-ff
