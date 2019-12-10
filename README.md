@@ -6,3 +6,4 @@ world
 hello
 python
 Java
+add merge
